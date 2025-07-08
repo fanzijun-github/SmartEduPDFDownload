@@ -4,7 +4,7 @@
 // @homepage     https://github.com/fanzijun-github/SmartEduPDFDownload/
 // @supportURL   https://github.com/fanzijun-github/SmartEduPDFDownload/issues/new
 // @version      1.0
-// @description  自动识别页面中最大的PDF文件并生成下载按钮，自动添加accessToken（250708可用）
+// @description  自动识别页面中最大的PDF文件并生成下载按钮，自动添加accessToken
 // @author       fanzijun
 // @match        https://basic.smartedu.cn/*
 // @grant        none
